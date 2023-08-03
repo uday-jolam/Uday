@@ -8,7 +8,23 @@ As a quick reminder, this came from one of three locations in either SSH, Git, o
 We can, as an example effort, even modify this README and
 * git@github.com:matthewmccullough/hellogitworld.git
 * git://github.com/matthewmccullough/hellogitworld.git
-* https://matthewmccullough@github.com/matthewmccullough/hellogitworld.git
+* https://matthewmccullou
+As a quick reminder, this came from one of three locations in either SSH, Git, or HTTPS format:
+We can, as an example effort, even modify this README and
+* git@github.com:matthewmccullough/hellogitworld.git
+* git://github.com/matthewmccullough/hellogitworld.git
+As a quick reminder, this came from one of three locations in either SSH, Git, or HTTPS format:
+We can, as an example effort, even modify this README and
+* git@github.com:matthewmccullough/hellogitworld.git
+* git://github.com/matthewmccullough/hellogitworld.git
+As a quick reminder, this came from one of three locations in either SSH, Git, or HTTPS format:
+We can, as an example effort, even modify this README and
+* git@github.com:matthewmccullough/hellogitworld.git
+* git://github.com/matthewmccullough/hellogitworld.gitvb
+As a quick reminder, this came from one of three locations in either SSH, Git, or HTTPS format:
+We can, as an example effort, even modify this README and
+* git@github.com:matthewmccullough/hellogitworld.git
+* git://github.com/matthewmccullough/hellogitworld.gitgh@github.com/matthewmccullough/hellogitworld.git
 
  change it as if it were source code for the purposes of the class.
 
